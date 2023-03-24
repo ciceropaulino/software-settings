@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "One Dark Pro Darker",
+    
+    "workbench.colorCustomizations": {
+        "editor.background": "#f00"
+    },
+
+    "glassit.alpha": 220
+}

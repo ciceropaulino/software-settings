@@ -1,0 +1,14 @@
+{
+    //general config
+    // ###
+    "window.restoreWindows": "none",
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "workbench.colorCustomizations": { //sett editor color background
+        "editor.background": "#1C1C1E"
+
+    },
+    "editor.fontFamily": "SFMono Nerd Font",
+    "workbench.iconTheme": "material-icon-theme"
+    // ###
+    
+}

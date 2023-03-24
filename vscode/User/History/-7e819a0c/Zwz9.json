@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "One Dark Pro Darker",
+    
+    "workbench.colorCustomizations": {
+        "editor.background": "#1C1C1E"
+
+    },
+
+    "editor.fontFamily": "SFMono Nerd Font",
+
+    "glassit.alpha": 200,
+    "workbench.iconTheme": "material-icon-theme"
+}
